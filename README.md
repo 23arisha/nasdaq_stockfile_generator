@@ -32,7 +32,7 @@ With this tool, all tables are scraped, formatted, and exported to Excel in **se
 1. Clone the repository:
 
    ```bash
-   git clone git clone https://github.com/23arisha/nasdaq_stockfile_generator.git
+   git clone https://github.com/23arisha/nasdaq_stockfile_generator.git
    cd nasdaq_stockfile_generator
    ```
 2. Install dependencies:
